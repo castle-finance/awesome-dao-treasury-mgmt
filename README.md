@@ -30,8 +30,11 @@ Traditional Corporate&#x20;
 ### Treasury Allocation Examples
 
 * [Mango Markets](https://www.notion.so/briansmith/Mango-Markets-DAO-Treasury-Allocation-Strategy-c813579a338740b3bac9534fa30f91bc)
+* [Phantasia](https://realms.today/dao/FANT/proposal/BtiZrUiVvinKP8VJqoY7JjsMtD8yxf9YvgFHG3pfyJCA)
 * [Gitcoin](https://gov.gitcoin.co/t/gitcoin-treasury-diversification/9698)
 * [PoolTogether](https://gov.pooltogether.com/t/treasury-assets-management-1/1989)
+
+
 
 ### Podcasts
 
