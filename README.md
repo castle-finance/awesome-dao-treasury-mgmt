@@ -20,6 +20,7 @@ Crypto
 * [Luca Prosperi - DAO Treasury Management: Cut the Chase](https://dirtroads.substack.com/p/-32-dao-treasury-management-cut-the?s=r)
 * [A Crisis in Protocol Treasury Management And How to Solve It](https://messari.io/article/a-crisis-in-protocol-treasury-management-and-how-to-solve-it)
 * [Managing DAO Treasury Risks with Stablecoin Diversification](https://medium.com/castle-finance/managing-dao-treasury-risks-with-stablecoin-diversification-745ccdfa1392)
+* [eGirl Capital - Treasury Management in Crypto](https://www.egirlcapital.com/writings/121357906)
 
 Traditional Corporate&#x20;
 
