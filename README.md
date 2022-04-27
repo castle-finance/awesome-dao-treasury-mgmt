@@ -19,6 +19,7 @@ Crypto
 * [Alex Michelson - The DAO Treasurer Series](https://medium.com/hedgey/the-dao-treasurer-series-part-1-fundamentals-f6fcefefaad0)
 * [Luca Prosperi - DAO Treasury Management: Cut the Chase](https://dirtroads.substack.com/p/-32-dao-treasury-management-cut-the?s=r)
 * [A Crisis in Protocol Treasury Management And How to Solve It](https://messari.io/article/a-crisis-in-protocol-treasury-management-and-how-to-solve-it)
+* [Managing DAO Treasury Risks with Stablecoin Diversification](https://medium.com/castle-finance/managing-dao-treasury-risks-with-stablecoin-diversification-745ccdfa1392)
 
 Traditional Corporate&#x20;
 
