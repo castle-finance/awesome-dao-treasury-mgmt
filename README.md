@@ -21,6 +21,7 @@ Crypto
 * [A Crisis in Protocol Treasury Management And How to Solve It](https://messari.io/article/a-crisis-in-protocol-treasury-management-and-how-to-solve-it)
 * [Managing DAO Treasury Risks with Stablecoin Diversification](https://medium.com/castle-finance/managing-dao-treasury-risks-with-stablecoin-diversification-745ccdfa1392)
 * [eGirl Capital - Treasury Management in Crypto](https://www.egirlcapital.com/writings/121357906)
+* [MSPC Partners - Private Rounds or Public Auctions? Fundraising in the Age of the DAO](https://llama.mirror.xyz/0t6O19LAbdq\_7p675Qinb4inhhrhreAQbLjbj4i9IIs)
 
 Traditional Corporate&#x20;
 
