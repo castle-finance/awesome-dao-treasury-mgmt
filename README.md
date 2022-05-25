@@ -18,10 +18,11 @@ Crypto
 * [Shreyas Hariharan - How DAOs should approach treasury management](https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury?s=r)
 * [Alex Michelson - The DAO Treasurer Series](https://medium.com/hedgey/the-dao-treasurer-series-part-1-fundamentals-f6fcefefaad0)
 * [Luca Prosperi - DAO Treasury Management: Cut the Chase](https://dirtroads.substack.com/p/-32-dao-treasury-management-cut-the?s=r)
-* [A Crisis in Protocol Treasury Management And How to Solve It](https://messari.io/article/a-crisis-in-protocol-treasury-management-and-how-to-solve-it)
-* [Managing DAO Treasury Risks with Stablecoin Diversification](https://medium.com/castle-finance/managing-dao-treasury-risks-with-stablecoin-diversification-745ccdfa1392)
+* [Messary - A Crisis in Protocol Treasury Management And How to Solve It](https://messari.io/article/a-crisis-in-protocol-treasury-management-and-how-to-solve-it)
+* [Castle - Managing DAO Treasury Risks with Stablecoin Diversification](https://medium.com/castle-finance/managing-dao-treasury-risks-with-stablecoin-diversification-745ccdfa1392)
 * [eGirl Capital - Treasury Management in Crypto](https://www.egirlcapital.com/writings/121357906)
 * [MSPC Partners - Private Rounds or Public Auctions? Fundraising in the Age of the DAO](https://llama.mirror.xyz/0t6O19LAbdq\_7p675Qinb4inhhrhreAQbLjbj4i9IIs)
+* [MSPC Partners - The DAO Treasury Issue](https://mirror.xyz/stastny.eth/yLKqFv6vIwj\_nKLh8Pn20dXqJOCsZLkVzb2bzT-7Y08)
 
 Traditional Corporate&#x20;
 
@@ -37,8 +38,6 @@ Traditional Corporate&#x20;
 * [Gitcoin](https://gov.gitcoin.co/t/gitcoin-treasury-diversification/9698)
 * [PoolTogether](https://gov.pooltogether.com/t/treasury-assets-management-1/1989)
 
-
-
 ### Podcasts
 
 * [I Pledge Allegiance - DeFi Treasuries, with Hasu, MonetSupply, and Larry Sukernik](https://podcasts.apple.com/us/podcast/defi-treasuries-with-hasu-monetsupply-and-larry-sukernik/id1587401478?i=1000542116428)
@@ -46,19 +45,19 @@ Traditional Corporate&#x20;
 ### Data Providers
 
 * [DeepDAO](https://deepdao.io/organizations)
-* [Open Orgs](https://openorgs.info)
+* [Open Orgs](https://openorgs.info/)
 
 ### DAOs/Companies/People
 
-* [Castle Labs](https://www.castle.finance)
-* [Llama](https://llama.xyz)
+* [Castle Labs](https://www.castle.finance/)
+* [Llama](https://llama.xyz/)
   * [The Ranch Newsletter](https://llama.substack.com)
   * [Shreyas Hariharan](https://twitter.com/HelloShreyas)
   * [BraveNewDeFi](https://twitter.com/BraveDeFi)
   * [Yuan Han Li](https://twitter.com/yuan\_han\_li)
-* [Reverie](https://www.reverie.ooo)
-* [CoinShift](http://coinshift.xyz)
-  * [Treasury House Newsletter](https://newsletter.coinshift.xyz)
+* [Reverie](https://www.reverie.ooo/)
+* [CoinShift](http://coinshift.xyz/)
+  * [Treasury House Newsletter](https://newsletter.coinshift.xyz/)
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)\
 To the extent possible under law, [Castle Labs, Inc.](https://creativecommons.org/choose/zero/castle.finance) has waived all copyright and related or neighboring rights to this work.
