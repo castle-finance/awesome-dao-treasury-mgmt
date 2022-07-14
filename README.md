@@ -18,11 +18,12 @@ Crypto
 * [Shreyas Hariharan - How DAOs should approach treasury management](https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury?s=r)
 * [Alex Michelson - The DAO Treasurer Series](https://medium.com/hedgey/the-dao-treasurer-series-part-1-fundamentals-f6fcefefaad0)
 * [Luca Prosperi - DAO Treasury Management: Cut the Chase](https://dirtroads.substack.com/p/-32-dao-treasury-management-cut-the?s=r)
-* [Messary - A Crisis in Protocol Treasury Management And How to Solve It](https://messari.io/article/a-crisis-in-protocol-treasury-management-and-how-to-solve-it)
+* [Messari - A Crisis in Protocol Treasury Management And How to Solve It](https://messari.io/article/a-crisis-in-protocol-treasury-management-and-how-to-solve-it)
 * [Castle - Managing DAO Treasury Risks with Stablecoin Diversification](https://medium.com/castle-finance/managing-dao-treasury-risks-with-stablecoin-diversification-745ccdfa1392)
 * [eGirl Capital - Treasury Management in Crypto](https://www.egirlcapital.com/writings/121357906)
 * [MSPC Partners - Private Rounds or Public Auctions? Fundraising in the Age of the DAO](https://llama.mirror.xyz/0t6O19LAbdq\_7p675Qinb4inhhrhreAQbLjbj4i9IIs)
 * [MSPC Partners - The DAO Treasury Issue](https://mirror.xyz/stastny.eth/yLKqFv6vIwj\_nKLh8Pn20dXqJOCsZLkVzb2bzT-7Y08)
+* [Element - Treasury Management in DeFi: Magic of Fixed Income](https://medium.com/element-finance/treasury-management-in-defi-magic-of-fixed-income-85c5d2188953)
 
 Traditional Corporate&#x20;
 
