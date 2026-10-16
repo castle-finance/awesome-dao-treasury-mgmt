@@ -62,3 +62,5 @@ Traditional Corporate&#x20;
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)\
 To the extent possible under law, [Castle Labs, Inc.](https://creativecommons.org/choose/zero/castle.finance) has waived all copyright and related or neighboring rights to this work.
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow Agent / MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & DAO treasury infrastructure agent, EIP-1153 transient-storage `AtomicArb.sol`, 0%-fee Morpho Blue flash-loan callback (`QWKZeroCapitalMorphoArb.sol`), and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources.
